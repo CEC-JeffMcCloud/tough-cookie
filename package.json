@@ -66,5 +66,8 @@
   "devDependencies": {
     "async": "^1.4.2",
     "vows": "^0.8.1"
+  },
+  "dependencies": {
+    "util": "git+https://github.com/CEC-JeffMcCloud/node-util.git"
   }
 }
